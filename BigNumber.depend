@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1445590757 source:/home/haiming/workspace/BigNumber/BigNumber/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
